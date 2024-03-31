@@ -1,24 +1,70 @@
-# Myntra_Clone
-Myntra Clone Website
-Welcome to the Myntra Clone Website project! This project aims to replicate the functionality and design of the popular e-commerce platform Myntra using React.js. This README file provides an overview of the project, its features, setup instructions, and usage guidelines.
-![Screenshot 2024-04-01 000525](https://github.com/Kaustubh568/Myntra_Clone/assets/92736570/b08df68f-10d2-454c-a1f6-26cc46668e01)
+# Getting Started with Create React App
 
-Overview
-Our Myntra Clone Website project aims to provide users with an immersive shopping experience similar to Myntra. Users can browse through a wide range of products, explore categories, add items to their cart, and complete purchases seamlessly. The website focuses on delivering a user-friendly interface coupled with responsive design to ensure accessibility across various devices.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Features
-![Screenshot 2024-04-01 000614](https://github.com/Kaustubh568/Myntra_Clone/assets/92736570/dda720a3-e680-4690-97bf-c3c8bfc5387c)
+## Available Scripts
 
-User Authentication: Secure user authentication system allowing users to sign up, log in, and manage their accounts.
-Product Catalog: A vast collection of products categorized into various sections such as clothing, footwear, accessories, etc.
-Product Filtering and Sorting: Users can filter and sort products based on different criteria such as price, brand, size, color, etc.
-Product Details: Detailed product pages providing information about the product, including images, descriptions, price, and specifications.
-Shopping Cart: Users can add products to their cart, update quantities, and remove items before proceeding to checkout.
-Checkout Process: Seamless checkout process with options for entering shipping details, selecting payment methods, and placing orders.
-Order History: Users can view their order history, track order status, and manage past purchases.
-Responsive Design: Ensures optimal viewing experience across a wide range of devices, including desktops, tablets, and smartphones.
-Technologies Used
-Frontend: React.js, HTML5, CSS3
-State Management: javascript
-Routing: React Router
-User Authentication: Firebase Authentication
+In the project directory, you can run:
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+### `npm run eject`
+
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+
+## Learn More
+
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+
+To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
