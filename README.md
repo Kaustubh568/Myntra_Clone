@@ -3,10 +3,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+![Screenshot 2024-04-01 000525](https://github.com/Kaustubh568/Myntra_Clone/assets/92736570/be159ad4-b9aa-4199-9e0e-2f7f7622dfa3)
 
 In the project directory, you can run:
 
 ### `npm start`
+![Screenshot 2024-04-01 000614](https://github.com/Kaustubh568/Myntra_Clone/assets/92736570/90b31f30-d3e0-4f5a-b829-bbb21d6258d2)
+
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
